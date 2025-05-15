@@ -10,5 +10,7 @@ pip install -r requirements.txt
 uvicorn app.main:app --reload
 ```
 
+## Video link
 
+https://drive.google.com/file/d/1hph7sZCUCYPedFqYkWCa0dKBHFg46-Ch/view?usp=sharing
 
